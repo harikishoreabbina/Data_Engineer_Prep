@@ -3,13 +3,11 @@
 
 import csv
 
-with open("Students.csv","r") as file:
+with open("students.csv","r") as file:
     reader = csv.DictReader(file)  # csv.DictReader makes each row as dictionary with column header as keys
     for i in reader:  ## the for loop will print the every row 
         print(i)
-        
-        
-        
+            
 with open("Cities.csv","r") as file2:
     reader2 = csv.DictReader(file2)
     for i in reader2:
