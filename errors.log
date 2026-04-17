@@ -1,0 +1,30 @@
+2026-04-16 23:23:57,064 - ERROR - Invalid value in row 13
+2026-04-16 23:37:25,680 - ERROR - Invalid value in row 13
+2026-04-16 23:37:53,335 - INFO - program started
+2026-04-16 23:37:53,335 - ERROR - Invalid value in row 13
+2026-04-16 23:38:13,966 - ERROR - Invalid value in row 13
+2026-04-16 23:38:20,986 - ERROR - Invalid value in row 13
+2026-04-16 23:38:27,306 - ERROR - Invalid value in row 13
+2026-04-16 23:38:28,213 - ERROR - Invalid value in row 13
+2026-04-16 23:38:28,441 - ERROR - Invalid value in row 13
+2026-04-16 23:38:28,672 - ERROR - Invalid value in row 13
+2026-04-16 23:38:45,351 - INFO - program started
+2026-04-16 23:38:45,351 - ERROR - Invalid value in row 13
+2026-04-16 23:40:21,793 - INFO - program started
+2026-04-16 23:40:21,801 - ERROR - Invalid value in row 13
+2026-04-16 23:42:15,997 - INFO - program started
+2026-04-16 23:42:15,997 - ERROR - Invalid value in row 13
+2026-04-16 23:42:15,997 - CRITICAL - their is critical issue in the data
+2026-04-16 23:42:33,192 - INFO - program started
+2026-04-16 23:42:33,193 - ERROR - Invalid value in row 13
+2026-04-16 23:42:33,193 - CRITICAL - their is critical issue in the data
+2026-04-16 23:42:43,634 - ERROR - Invalid value in row 13
+2026-04-16 23:42:43,635 - CRITICAL - their is critical issue in the data
+2026-04-16 23:43:20,178 - ERROR - Invalid value in row 13
+2026-04-16 23:43:20,178 - CRITICAL - their is critical issue in the data
+2026-04-16 23:44:57,867 - ERROR - Invalid value in row 13
+2026-04-16 23:44:57,868 - CRITICAL - their is critical issue in the data
+2026-04-16 23:47:57,874 - ERROR - Invalid value in row 13
+2026-04-16 23:47:57,874 - CRITICAL - The input data is Invalid
+2026-04-16 23:47:58,181 - ERROR - Invalid value in row 13
+2026-04-16 23:47:58,182 - CRITICAL - The input data is Invalid
