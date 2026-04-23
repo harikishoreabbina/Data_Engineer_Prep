@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Virat Kohli",
+        "sport": "Cricket",
+        "team": "India",
+        "runs": 13000,
+        "age": 35
+    },
+    {
+        "id": 2,
+        "name": "Lionel Messi",
+        "sport": "Football",
+        "team": "Argentina",
+        "goals": 820,
+        "age": 36
+    },
+    {
+        "id": 3,
+        "name": "LeBron James",
+        "sport": "Basketball",
+        "team": "Lakers",
+        "points": 39000,
+        "age": 39
+    },
+    {
+        "id": 4,
+        "name": "Rohit Sharma",
+        "sport": "Cricket",
+        "team": "India",
+        "runs": 10000,
+        "age": 36
+    },
+    {
+        "id": 5,
+        "name": "Cristiano Ronaldo",
+        "sport": "Football",
+        "team": "Portugal",
+        "goals": 850,
+        "age": 39
+    },
+    {
+        "id": 6,
+        "name": "Stephen Curry",
+        "sport": "Basketball",
+        "team": "Warriors",
+        "points": 22000,
+        "age": 35
+    },
+    {
+        "id": 7,
+        "name": "MS Dhoni",
+        "sport": "Cricket",
+        "team": "India",
+        "runs": 10500,
+        "age": 42
+    },
+    {
+        "id": 8,
+        "name": "Neymar Jr",
+        "sport": "Football",
+        "team": "Brazil",
+        "goals": 450,
+        "age": 32
+    },
+    {
+        "id": 9,
+        "name": "Kevin Durant",
+        "sport": "Basketball",
+        "team": "Suns",
+        "points": 27000,
+        "age": 35
+    },
+    {
+        "id": 10,
+        "name": "Hardik Pandya",
+        "sport": "Cricket",
+        "team": "India",
+        "runs": 4000,
+        "age": 31
+    }
+]
