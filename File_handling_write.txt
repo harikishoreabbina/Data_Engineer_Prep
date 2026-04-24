@@ -1,2 +1,0 @@
-this is the new  text after using Write mode
- this is new text form Append modethis is 2nd appended text
