@@ -16,7 +16,7 @@ INSERT INTO week3_customers VALUES
 
 
 
- TABLE week3_orders (
+TABLE week3_orders (
 	order_id INT,
     customer_id INT,
     order_date DATE,

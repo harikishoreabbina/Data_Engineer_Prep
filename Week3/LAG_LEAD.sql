@@ -1,11 +1,11 @@
 /*LAG helps to compare the current row with previous row.*/
-/*
+
 SELECT order_id,customer_id,amount,status,
 	lag(amount) over(
 		partition by customer_id
 		order by order_date) AS previous_order_amount
 FROM week3_orders;
-*/
+
 /* LEAD helps to compare the current row with the future row*/
 
 SELECT order_id, customer_id, order_date, amount, status,
